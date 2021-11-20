@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: rgb(217, 224, 224); */
+    height: 100vh;
+    background-color: rgba(1, 17, 63, 0.788);
+}
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    text-align: center;
+    display: block;
+    
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: white;
+}
+.search{
+    margin-top: 20px;
+    width: 600px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    padding-right: 20px;
+    
+}
+
+.name{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 50px;
+
+}
+.pera{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 7px;
+}
+.main2{
+    margin-top: 40px;
+}
+.sec1{
+    display: flex;
+    align-items: baseline;
+   justify-content: space-evenly;
+}
+
+.sub{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    text-align: center;
+    display: block;
+    margin: 30px;
+    padding: 20px;
+    background-color: cyan;
+    width: 200px;
+    border: darkblue;
+    border-radius: 40px;
+}
+.country{
+    margin-right: 400px;
+    color: white;
+}
+.sec2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    text-align: center;
+}
+.line11{
+    background-color: white;
+    padding: 25px;
+    width: 250px;
+    border: white;
+    border-radius: 50px;
+}
+.sec3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    text-align: center;
+}
+.line12{
+    background-color: white;
+    padding: 25px;
+    width: 250px;
+    border: white;
+    border-radius: 50px;
+    
+}
